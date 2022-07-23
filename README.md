@@ -1,1 +1,1 @@
-# Distribucion-global-de-terremotos
+# Distribucion global de terremotos
